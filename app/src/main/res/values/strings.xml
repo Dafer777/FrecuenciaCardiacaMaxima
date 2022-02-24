@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Frecuencia Cardiaca</string>
+    <string name="resultado">Resultado</string>
+    <string name="texto">Escribe tu edad para saber tu frecuencia cardiaca maxima</string>
+    <string name="frecuencia_cardiaca_maxima">¡Frecuencia cardiaca maxima!</string>
+
+    <string name="edad">edad</string>
+    <string name="todo">TODO</string>
+    <string name="continuar">Continuar</string>
+    <string name="mide_tu_frecuencia_cardiaca_maxima">Mide tu frecuencia cardiaca maxima</string>
+    <string name="autores">Creadores de la app:</string>
+    <string name="autores1">David Isaac Fernandez Chicas</string>
+    <string name="autores2">Alfredo Jose Zelaya Lainez</string>
+    <string name="Pag3">Autores</string>
+    <string name="volver">volver</string>
+    <string name="Salir">Salir</string>
+</resources>
